@@ -4,7 +4,7 @@
 #### See [Microsoft Page](https://docs.microsoft.com/en-us/azure/active-directory/develop/v1-protocols-openid-connect-code) for more details.
 
 #### This example contains two containers (1) An Apache web server, and (2) a Python application running in Flask.
-#### Apache Proxy container in [link](), Flask WebApp in this project
+#### Apache Proxy container in [azure-auth-apache-proxy](https://github.com/spidermonkey2012/azure-auth-apache-proxy), Flask WebApp in this project
 
 #### Diagram
 ![diagram](Container_Applications.jpg)
